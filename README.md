@@ -30,10 +30,7 @@ Personal Goals
 
 ### Backlog: Side Projects & Other Ideas
 - [Apps & Other Projects](https://github.com/una/personal-goals/blob/master/ideas-and-misc/app-ideas.md)
-- [Blog Post Ideas](https://github.com/una/personal-goals/blob/master/ideas-and-misc/blog-ideas.md)
-- [Backlog Reading List](https://github.com/una/personal-goals/tree/master/content-list)
 
-# Reference
+# References and notes about this repo
 
-Personal goals made open source for accessibility across computers I use, transparency, accountability, and versioning. Learn more about it [here](http://una.github.io/personal-goals-guide/).
-: [Just do it.](http://una.github.io/2015-resolutions/)
+Personal goals repo is inspired and a fork from @una's (as you can see yourself up above). More details about it can be found on her own repo @una/personal-goals
