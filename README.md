@@ -7,13 +7,12 @@ Personal Goals
 5. Contribute to Open Source.
 6. Foster designer participation in OS projects.
 
-# October 25, 2015
-## Things I have to get done this week:
+## October 25, 2015
+### Things I have to get done this week:
 
 - [x] Watch the Martian
 - [ ] Finish watching [video](https://www.youtube.com/watch?v=SmE4OwHztCc) on browser rendering
 - [ ] Think through PostCSS JS features
-
 
 ### Things I'll Do in the Future:
 - [ ] Read all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
