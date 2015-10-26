@@ -1,7 +1,5 @@
 Personal Goals
 ==============
-
-# Overarching Goals for 2015
 1. Build quickly, ship things, and learn.
 2. Contribute to Open Source
 3. Share knowledge as often as possible
