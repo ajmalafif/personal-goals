@@ -2,7 +2,7 @@ Personal Goals
 ==============
 1. Instill a habit of learning and teaching.
 2. Up my JS game.
-3. Performance-first advocacy (without compromising aesthetic & functionality).
+3. Performance-first advocacy (without compromising aesthetic & functionality). Start with performance but balance them out later.
 4. Contribute to Open Source.
 5. Foster designer participation in OS projects.
 
