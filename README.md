@@ -2,9 +2,10 @@ Personal Goals
 ==============
 1. Instill a habit of learning and teaching.
 2. Up my JS game.
-3. Performance-first advocacy (without compromising aesthetic & functionality). Start with performance but balance them out later.
-4. Contribute to Open Source.
-5. Foster designer participation in OS projects.
+3. Performance-first advocacy (without compromising aesthetic & functionality). 
+4. ^ Start with performance but balance them out later.
+5. Contribute to Open Source.
+6. Foster designer participation in OS projects.
 
 # October 25, 2015
 ## Things I have to get done this week:
