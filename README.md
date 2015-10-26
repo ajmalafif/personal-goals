@@ -33,4 +33,4 @@ Personal Goals
 
 # References and notes about this repo
 
-Personal goals repo is inspired and a fork from @una's (as you can see yourself up above). More details about it can be found on her own repo @una/personal-goals
+Personal goals repo is inspired and a fork from [@una](https://github.com/una/)'s (as you can see yourself up above). More details about it can be found on her own repo [@una/personal-goals](https://github.com/una/personal-goals)
